@@ -2,7 +2,9 @@
 - 👀 I’m studying in ICTU
 - 🌱 I’m currently learning Front-end
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:
+- Facebook: Nguyễn Hồng Đức
+- Email: contact.hongduc@gmail.com
 
 <!---
 hongduc-code-dao/hongduc-code-dao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
