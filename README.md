@@ -3,8 +3,6 @@
 My full name is Nguyen Hong Duc. Currently I am a student of ICTU. I am learning about Front-end programming .
 Also I have I have a few small web pages in the process of learning and creating.
 
-<img src="https://hongduccodedao.xyz/assets/Img/about__img.jpg" alt="My Website" width="500" style="border-radius: 25px;"/>
-
 ---
 
 ### ⚡ GitHub Stats #
