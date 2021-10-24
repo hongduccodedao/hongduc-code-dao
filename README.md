@@ -5,7 +5,7 @@ Also I have I have a few small web pages in the process of learning and creating
 
 ---
 
-### ⚡ GitHub Stats #
+## ⚡ GitHub Stats #
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hongduc-code-dao&layout=compact&theme=dracula)](https://github.com/hongduc-code-dao/github-readme-stats)
 
@@ -13,7 +13,7 @@ Also I have I have a few small web pages in the process of learning and creating
 
 ---
 
-### 📫 Contact me
+## 📫 Contact me
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&color=395693&logoColor=white)](https://www.facebook.com/contact.hongduc/)
 [![Email](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&color=ff1800&logoColor=white)](mailto:contact.hongduc@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&color=5037EA&logoColor=white)](https://discord.gg/GuGyEK7D)
