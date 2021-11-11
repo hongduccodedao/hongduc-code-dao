@@ -1,7 +1,5 @@
 ## 📝 About me
 
-My full name is Nguyen Hong Duc. Currently I am a student of ICTU. I am learning about Front-end programming .
-Also I have I have a few small web pages in the process of learning and creating.
 ```py
 About Me = [
     My full name is Nguyen Hong Duc. Currently I am a student of ICTU. I am learning about Front-end programming .
