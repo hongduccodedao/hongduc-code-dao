@@ -6,6 +6,9 @@ About Me = [
       Also I have I have a few small web pages in the process of learning and creating. "
 ]
 ```
+
+![](https://komarev.com/ghpvc/?username=hongduc-code-dao)
+
 ---
 
 ## ⚡ GitHub Stats #
